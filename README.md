@@ -1,4 +1,4 @@
-![logo](https://github.com/Agrim-Sharma174/Agrim-Sharma174/blob/main/AGRIM%20GITHUB%20BANNER.png)
+![logo](https://github.com/Agrim-Sharma174/Agrim-Sharma174/blob/main/AGRIM%20GITHUB%20README.mp4)
 
 <h1 align="center">Hi 👋, I'm AGRIM SHARMA</h1>
 
