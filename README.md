@@ -29,9 +29,14 @@ https://user-images.githubusercontent.com/97873694/207893619-3b843bcc-9ac0-4f62-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agrim-sharma174&show_icons=true&locale=en" alt="agrim-sharma174" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agrim-sharma174&" alt="agrim-sharma174" /></p>
+
 <br>
-[![An image of @agrim_sharma174's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/agrim_sharma174)](https://holopin.io/@agrim_sharma174)
-<br>
+<hr>
+
+[![@agrim_sharma174's Holopin board](https://holopin.me/agrim_sharma174)](https://holopin.io/@agrim_sharma174)
+
+<hr>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@agrim_sharma174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@agrim_sharma174" height="30" width="40" /></a>
