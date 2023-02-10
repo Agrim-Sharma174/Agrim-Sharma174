@@ -4,7 +4,8 @@ https://user-images.githubusercontent.com/97873694/207893619-3b843bcc-9ac0-4f62-
 
 
 
-<h1 align="center">Hi 👋, I'm AGRIM SHARMA</h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=50&pause=10000&color=fde74c&center=true&vCenter=true&width=550&height=100&lines=Agrim + Sharma!"></h1>
+
 
 <h3 align="center">A passionate MERN-stack & blockchain developer who is exploring the WEB3 world and improving by 0.1% everyday.</h3>
 
