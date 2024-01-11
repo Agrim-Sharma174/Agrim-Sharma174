@@ -1,14 +1,9 @@
 
-
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
-
+![](https://github.com/Agrim-Sharma174/Agrim-Sharma174/blob/main/Agrim_readme_banner.gif)
 
 <h1 align="center"> <img align="center" src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=50&pause=10000&color=12E400FF&center=true&vCenter=true&width=550&height=100&lines=Agrim + Sharma!"></h1>
 
-
 <h3 align="center">A passionate Web developer & Smart Contract developer who is exploring the WEB3 world and improving by 0.1% daily.</h3>
-
-<img align ="right" alt ="coding" width ="330" src ="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" >
 
 ## A short intro
 
@@ -16,7 +11,7 @@
 
 - 💬 Ask me about **Programming 👨‍💻 Or maybe Space🌌**
 
-- 📫 How to reach me **Scroll and you will find my socials**
+- 📫 How to reach me **See Contact section in my portfolio**
 
 - ⚡ Fun fact **Let's get connect & know about my magic😉**
 <br>
